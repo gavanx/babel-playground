@@ -1,0 +1,8 @@
+{
+  "name": "babel-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gavanx/babel-playground.git",
+  "author": "guoming768com@163.com",
+  "license": "MIT"
+}
