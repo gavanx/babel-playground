@@ -17,6 +17,8 @@ module.exports = {
   ],
   plugins: [
     '@babel/transform-arrow-functions',
+    '@babel/plugin-proposal-async-do-expressions',
+    '@babel/plugin-proposal-class-static-block',
     require('./src/plugin/reverse'),
     require('./src/plugin/dummy'),
   ],
