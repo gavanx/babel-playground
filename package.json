@@ -6,7 +6,7 @@
   "author": "guoming768com@163.com",
   "license": "MIT",
   "scripts": {
-    "dev": "./node_modules/.bin/babel src --out-dir build"
+    "dev": "./node_modules/.bin/babel src/code --out-dir build"
   },
   "dependencies": {
     "@babel/cli": "^7.14.5",

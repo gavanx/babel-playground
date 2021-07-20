@@ -14,4 +14,4 @@ const presets = [
   ],
 ]
 
-module.exports = { presets, plugins: ['@babel/plugin-transform-arrow-functions'] }
+module.exports = { plugins: ['@babel/transform-arrow-functions', require('./src/plugin/reverse')] }
